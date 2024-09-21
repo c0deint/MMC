@@ -1,0 +1,3 @@
+Just open changer.bat
+Put yours configs
+restart minecraft!
